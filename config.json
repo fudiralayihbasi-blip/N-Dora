@@ -1,5 +1,5 @@
 {
-    "language": "vi",
+    "language": "ar_YS",
     "DeveloperMode": false,
     "autoCreateDB": true,
     "iconUnsend": {
@@ -15,7 +15,7 @@
     "BOTNAME": "ساكونا",
     "AMDIN_NAME": "𝐁𝐎𝐓",
     "FACEBOOK_ADMIN": "https://www.facebook.com/DoraYogiEXE",
-    "PREFIX": ".",
+    "PREFIX": "-",
     "ADMINBOT": [
         "61582197102454"
     ],
